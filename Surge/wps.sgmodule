@@ -7,7 +7,7 @@ WPS会员旧接口 = type=http-response,pattern=^https?:\/\/.*?account\.wps\.(co
 
 # 新接口处理
 WPS会员信息 = type=http-response,pattern=^https?:\/\/personal-bus\.wps\.cn\/activity\/member_badges\/v1\/getMemberInfo,requires-body=1,max-size=-1,script-path=WpsNew.js
-WPS会员特权 = type=http-response,pattern=^https?:\/\/.*\/api\/vas\/privileges,requires-body=1,max-size=-1,script-path=WpsNew.js
+WPS会员特权 = type=http-response,pattern=^https?:\/\/.*\/api\/vas\/privileges,requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/wongdean/wool_scripts/refs/heads/main/Scripts/wps/WpsNew.js
 
 [MITM]
 hostname = %APPEND% account.wps.cn, *account.wps.com, personal-bus.wps.cn, 120.46.147.18 
