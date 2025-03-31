@@ -1,0 +1,32 @@
+#!name=Crypto
+#!desc=选择支持的地区
+#!tg-group=https://t.me/lanjieguanggao
+#!date=2024-06-01 23:15:00
+#############################################
+
+# Bitget
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN,bitget-gen.ada.support
+
+# MEXC
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexcsensors.com
+DOMAIN-SUFFIX,gotoda.co,Crypto
+
+# OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,bybitglobal.com
+
+# SOL
+DOMAIN-SUFFIX,solscan.io
