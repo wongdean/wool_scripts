@@ -30,3 +30,9 @@ DOMAIN-SUFFIX,bybitglobal.com
 
 # SOL
 DOMAIN-SUFFIX,solscan.io
+
+# BSC
+DOMAIN-SUFFIX,bscscan.com
+
+# Universal X
+DOMAIN-SUFFIX,particle.network
