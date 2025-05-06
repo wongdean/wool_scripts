@@ -1,0 +1,7 @@
+#!name=去除小宇宙开屏广告
+
+[URL Rewrite]
+^https:\/\/api\.xiaoyuzhoufm\.com\/v1\/flash-screen\/list reject-dict
+
+[MITM]
+hostname = %APPEND% api.xiaoyuzhoufm.com
