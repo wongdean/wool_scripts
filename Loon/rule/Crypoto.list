@@ -8,12 +8,16 @@
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN,bitget-gen.ada.support
+DOMAIN-SUFFIX,bitgetapp.com
+DOMAIN-SUFFIX,bitgetapps.com
 
 # MEXC
 DOMAIN-SUFFIX,mocortech.com
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexcsensors.com
-DOMAIN-SUFFIX,gotoda.co,Crypto
+DOMAIN-SUFFIX,gotoda.co
+DOMAIN-SUFFIX,greentreeone.com
+
 
 # OKX
 DOMAIN-SUFFIX,okex.com
@@ -34,6 +38,7 @@ DOMAIN-SUFFIX,bybdc6.com
 
 # SOL
 DOMAIN-SUFFIX,solscan.io
+DOMAIN-SUFFIX,solana.fm
 
 # BSC
 DOMAIN-SUFFIX,bscscan.com
@@ -41,3 +46,9 @@ DOMAIN-SUFFIX,bscscan.com
 # Universal X
 DOMAIN-SUFFIX,particle.network
 DOMAIN-SUFFIX,universalx.app
+
+# GMGN
+DOMAIN-SUFFIX,gmgn.ai
+
+# DEXX
+DOMAIN-SUFFIX,dexx.ai
